@@ -12,6 +12,8 @@ The goal is to build a logistic regression model to assign a lead score between 
 
 There are additional problems presented by the company which our model should be able to adapt to if requirements change in the future.
 
+![Lead Conversion Process](https://cdn.upgrad.com/UpGrad/temp/189f213d-fade-4fe4-b506-865f1840a25a/XNote_201901081613670.jpg)
+
 ## Steps Followed
 
 - **Reading Data**: Import necessary libraries and load dataset into a DataFrame.
