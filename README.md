@@ -39,8 +39,8 @@ There are additional problems presented by the company which our model should be
 
 This project was collaboratively completed by:
 
-- Nguyen Van Thuong
-- Uttam Kumar
+- [Nguyen Van Thuong](https://github.com/ThNgVN-DS)
+- [Uttam Kumar](https://github.com/UttamKumar2005) 
 - Viswanath Padmanabhan
 
 ## Group Study Assignment
